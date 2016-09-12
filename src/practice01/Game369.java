@@ -7,7 +7,7 @@ public class Game369 {
 		for( int i=1; i<100; i++){
 			String number = String.valueOf(i);
 			int clapCount = 0;
-
+			int c =0;
 		if( c=='3' || c=='6' || c=='9')	{
 			clapCount++;
 		}
